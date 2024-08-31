@@ -27,3 +27,13 @@ if fila_encontrada != - 2 :
     print (f"se encontró {valor_buscado } en la fila { fila_encontrada } y columna { columna_encontrada} . ")
 else:
     print (f"se encontró {valor_buscado } no se encontró en la matriz." )
+
+
+
+
+
+
+
+
+
+
